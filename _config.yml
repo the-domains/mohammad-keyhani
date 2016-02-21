@@ -1,0 +1,28 @@
+name: Mohammad Keyhani
+favicon: null
+layout_spectrum: 0.8007688408251852
+typography_spectrum: 0.5746976630762219
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5660383654758334
+  lightness: 0.13104936736635864
+  saturation: 0.6970684875268489
+  rhythmicContrast: 0.5465928490739316
+purpose: []
